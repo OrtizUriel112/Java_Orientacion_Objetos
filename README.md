@@ -7,8 +7,7 @@ JRE y JDK, POO, Polimorfismo, Excepciones y Collections.
 - Compilando y ejecutando código Java
 - Aprenda a usar Eclipse
 - Variables y control de flujo
-- Conozca los principales tipos de Java
---- 
+- Conozca los principales tipos de Java 
 ---
 ## Curso 2:
 ### Java POO
