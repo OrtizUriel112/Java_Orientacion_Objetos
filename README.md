@@ -2,7 +2,7 @@
 JRE y JDK, POO, Polimorfismo, Excepciones y Collections.
 
 ## Curso 1:
-### Java JRE y JDK
+### Java JRE y JDK: Compile y ejecute su primer programa
 - ¿JVM? ¿JDK? ¿JRE? ¿Qué son esas siglas?
 - Compilando y ejecutando código Java
 - Aprenda a usar Eclipse
@@ -10,7 +10,7 @@ JRE y JDK, POO, Polimorfismo, Excepciones y Collections.
 - Conozca los principales tipos de Java 
 ---
 ## Curso 2:
-### Java POO
+### Java POO: Entendiendo la Orientación a Objetos
 - Domine el paradigma de programación más usado en el mercado
 - Entienda lo que son referencias y objetos
 - Use atributos, métodos de la instancia y de la clase
